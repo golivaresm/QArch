@@ -9,7 +9,7 @@ def front():
             """
     st.write(text)
 
-    image_huggingface_url = "http://rarasartes.com/wp-content/uploads/2018/12/MASP-1.jpg"
+    image_huggingface_url = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Museu_de_Arte_de_Sao_Paulo_1_Brasil.jpg/800px-Museu_de_Arte_de_Sao_Paulo_1_Brasil.jpg"
     st.image(image_huggingface_url)
 
     text = "MASP en PlataformaArquitectura"
